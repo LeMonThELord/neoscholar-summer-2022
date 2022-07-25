@@ -1,0 +1,4 @@
+---
+applications:
+- name: game-2048
+  buildpack: staticfile_buildpack
